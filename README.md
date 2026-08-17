@@ -1,30 +1,32 @@
-# Análisis de Algoritmos — Repositorio del Curso
+# Anï¿½lisis de Algoritmos ï¿½ Repositorio del Curso
 
-Este repositorio contiene los códigos, prácticas y entregas de informes de laboratorio correspondientes a la asignatura **Análisis y Diseño de Algoritmos**.
+Este repositorio contiene los cï¿½digos, prï¿½cticas y entregas de informes de laboratorio correspondientes a la asignatura **Anï¿½lisis y Diseï¿½o de Algoritmos**.
 
 ## Estructura del Repositorio
 
-A continuación se detalla el propósito de cada directorio del proyecto:
+A continuaciï¿½n se detalla el propï¿½sito de cada directorio del proyecto:
 
 - laboratorios/: Contiene las subcarpetas e informes correspondientes a los 5 laboratorios evaluativos del semestre.
-- ejercicios-clase/: Espacio destinado a los ejercicios prácticos de las clases semanales y sesiones no evaluativas.
-- enchmarks/: Scripts compartidos de medición de tiempos de ejecución (profiling), recolección de métricas y generación de gráficas de complejidad.
+- ejercicios-clase/: Espacio destinado a los ejercicios prï¿½cticos de las clases semanales y sesiones no evaluativas.
+- enchmarks/: Scripts compartidos de mediciï¿½n de tiempos de ejecuciï¿½n (profiling), recolecciï¿½n de mï¿½tricas y generaciï¿½n de grï¿½ficas de complejidad.
 
-## Configuración y Ejecución del Entorno
+## Configuraciï¿½n y Ejecuciï¿½n del Entorno
 
 Para ejecutar los scripts de pruebas y benchmarks en Python:
 
 ``bash
+
 # Crear y activar entorno virtual
+
 python -m venv .venv
 .venv\Scripts\activate
 
 # Instalar dependencias necesarias
+
 pip install matplotlib numpy
 
+## Informaciï¿½n del Autor
 
-## Información del Autor
-
-- **Estudiante:** Tu Nombre Completo
-- **Correo institucional:** tu.correo@universidad.edu.co
+- **Estudiante:** Camilo Ospina Hernandez
+- **Correo institucional:** <camiloospina318319@correo.itm.edu.co>
 - **Semestre:** 2026-2
