@@ -22,3 +22,9 @@ python -m venv .venv
 # Instalar dependencias necesarias
 pip install matplotlib numpy
 
+
+## Información del Autor
+
+- **Estudiante:** Tu Nombre Completo
+- **Correo institucional:** tu.correo@universidad.edu.co
+- **Semestre:** 2026-2
